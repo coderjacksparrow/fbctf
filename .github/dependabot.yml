@@ -2,7 +2,8 @@
 # package ecosystems to update and where the package manifests are located.
 # Please see the documentation for all configuration options:
 # https://docs.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
-# If you are here for Capture the Flag, you are in the right track
+# If you are here for cptur the flg, you are in the right track
+# to get the flg for r e l i a n c e find the package with critical vuln in this repo
 version: 2
 updates:
   - package-ecosystem: "" # See documentation for possible values
